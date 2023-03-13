@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DnbDOyRRX82likOslfHIR9isCQaGXtdheIXswkb6kg9Jhau7irceWnFvw5UN+w/10AP8kDSeO/yP72ipZGi3A==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\ray-tracer-tcampean\\ray-tracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0-rc.1.20451.14\\microsoft.netcore.platforms.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0-rc.1.20451.14\\microsoft.win32.systemevents.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.drawing.common\\5.0.0-rc.1.20451.14\\system.drawing.common.5.0.0-rc.1.20451.14.nupkg.sha512"
+  ],
+  "logs": []
+}
